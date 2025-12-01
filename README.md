@@ -91,7 +91,3 @@ Total Amount: ₹1,234
 ---
  
 
-
-
-## 📜 License
-This project is licensed under the **MIT License**.
