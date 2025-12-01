@@ -1,11 +1,6 @@
-{"id":"51990","variant":"standard","title":"OCR Project README"}
+
 # 📝 OCR - Optical Character Recognition
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/) 
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?logo=opencv&logoColor=white)](https://opencv.org/) 
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-
----
 
 ## 🔍 Overview
 **OCR - Optical Character Recognition** is a Python-based project that extracts text, words, and dates from uploaded images. It converts printed text in images into editable digital text, making it useful for digitizing documents, receipts, and other scanned materials. This project demonstrates practical applications of computer vision and OCR technologies.  
