@@ -24,7 +24,7 @@
 
 ## 📁 Project Structure
 ```
-OCR-Optical-Character-Recognition/
+OCR-Optical-Character-Recognition
 ├── images/                           # Sample/test images
 ├── output/                           # Optional: store extracted text
 ├── main_script.py                    # Main Python script
